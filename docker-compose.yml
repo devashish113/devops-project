@@ -1,6 +1,6 @@
 version: '3'
 services:
   web:
-    image: yourdockerhubusername/devops-portfolio
+    image: devashish113/devi
     ports:
       - "8080:80"
